@@ -61,4 +61,20 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the user name.
 
+# Module 4: 
 
+## Test steps
+1. Build and run CiCo.
+2. Enter abcdefghijklmnopqrstuvqwxyz into the field and click update.
+
+## Expected results
+* Should not display anything in the text box.
+
+# Module 5: 
+
+## Test steps
+1. Build and run CiCo.
+2. Exit the application.
+
+## Expected results
+* Should show a "Clean shutdown" response in the shell.
