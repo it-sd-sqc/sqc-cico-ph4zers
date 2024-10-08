@@ -61,6 +61,7 @@ Use `./build.sh` to build CiCo and `./run.sh` to run it if using the command lin
 ## Expected results
 * Should display "Developer" for the username.
 
+# Module 4: 
 
 # Module 6:  Aesthetic and minimalist design.
 
